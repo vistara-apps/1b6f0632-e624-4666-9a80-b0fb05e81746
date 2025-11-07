@@ -7,15 +7,20 @@
   "frame": {
     "version": "vNext",
     "name": "Collective Intelligence",
-    "homeUrl": "https://collective-intelligence.app",
+    "homeUrl": "https://app-05e81746-l00t.vercel.app",
     "iconUrl": "https://collective-intelligence.app/icon-256x256.png",
     "splashImageUrl": "https://collective-intelligence.app/splash-200x200.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://collective-intelligence.app/api/minikit-webhook",
+    "webhookUrl": "https://app-05e81746-l00t.vercel.app/api/webhook",
     "subtitle": "Leveraging Farcaster for social consensus",
     "description": "Facilitate collective decision-making within communities by enabling users to propose, validate, and prioritize problems and solutions on Base.",
     "primaryCategory": "social",
-    "tags": ["governance", "voting", "dao", "collective-intelligence"],
+    "tags": [
+      "governance",
+      "voting",
+      "dao",
+      "collective-intelligence"
+    ],
     "heroImageUrl": "https://collective-intelligence.app/og.png",
     "tagline": "From problem to solution, together",
     "ogTitle": "Collective Intelligence Engine",

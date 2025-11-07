@@ -1,0 +1,14 @@
+{
+  "name": "Collective Intelligence Engine",
+  "description": "Collective Intelligence Engine is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://1b6f0632-e624-4666-9a80-b0fb05e81746.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Collective Intelligence Engine",
+      "description": "Collective Intelligence Engine is a Base Mini App built with Zara.",
+      "url": "https://1b6f0632-e624-4666-9a80-b0fb05e81746.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
